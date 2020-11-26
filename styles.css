@@ -61,7 +61,7 @@ nav ul {
   margin-bottom: 1rem;
 }
 
-a {
+li a {
   text-decoration: none;
   padding: 10px;
   display: inline-block;
@@ -69,10 +69,6 @@ a {
   cursor: pointer;
   color: var(--primary-color);
 }
-
-/* a:visited {
-  color: var(--primary-color);
-} */
 
 a:hover {
   color: var(--secondary-color);
